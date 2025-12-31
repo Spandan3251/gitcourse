@@ -2,3 +2,4 @@ I have a file which is used to fix bugs.
 
 Another bug fixed.
 bug detected and also fixed.
+Fourth bug detected and fixed.
